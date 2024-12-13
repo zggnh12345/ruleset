@@ -14,3 +14,4 @@ https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
 https://raw.githubusercontent.com/IceCodeNew/4Share/master/geoip_china/china_ip_list.txt
 https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china6.txt
+https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/Direct.list
