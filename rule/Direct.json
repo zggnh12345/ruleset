@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "4d4y",
+        "btschool",
+        "ghp",
+        "m-team",
+        "mirror",
+        "qingwa",
+        "speedtest",
+        "totheglory"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cn",
+        "330724.xyz",
+        "dns.msftncsi.com",
+        "ipv6.msftconnecttest.com",
+        "lanzov.com",
+        "linux.do",
+        "msftcomecttest.com",
+        "time.windows.com",
+        "uiop.store"
+      ]
+    }
+  ],
+  "version": 2
+}
