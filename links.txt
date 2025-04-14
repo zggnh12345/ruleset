@@ -2,4 +2,3 @@ https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
 https://raw.githubusercontent.com/IceCodeNew/4Share/master/geoip_china/china_ip_list.txt
 https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china6.txt
 https://raw.githubusercontent.com/zggnh12345/my/refs/heads/main/Direct.list
-https://raw.githubusercontent.com/zggnh12345/one-geoip/rule-set/one-china.srs
