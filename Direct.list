@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,uiop.store
 DOMAIN-SUFFIX,suwa.eu.org
 DOMAIN-SUFFIX,zzgg.eu.org
 DOMAIN-SUFFIX,unraid.net
+DOMAIN-SUFFIX,cloud.mikrotik.com
+DOMAIN-SUFFIX,api.mikrotik.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,time.windows.com
@@ -15,7 +17,6 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,mikrotik
 DOMAIN-KEYWORD,ghp
 DOMAIN-KEYWORD,btschool
 DOMAIN-KEYWORD,qingwa
