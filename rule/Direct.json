@@ -7,7 +7,6 @@
         "ghp",
         "m-team",
         "makifx",
-        "mikrotik",
         "qingwa",
         "speedtest",
         "totheglory"
@@ -17,6 +16,8 @@
       "domain_suffix": [
         ".cn",
         "330724.xyz",
+        "api.mikrotik.com",
+        "cloud.mikrotik.com",
         "dns.msftncsi.com",
         "linux.do",
         "msftconnecttest.com",
