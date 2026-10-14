@@ -2,7 +2,6 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,re0.me
