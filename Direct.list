@@ -29,6 +29,15 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 # 自动域名后缀匹配
 DOMAIN-SUFFIX,naspt.vip
 DOMAIN-SUFFIX,wpys.cc
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,haitunsou.com
+DOMAIN-SUFFIX,kuake8.com
+DOMAIN-SUFFIX,leso.cc
+DOMAIN-SUFFIX,panso.vip
+DOMAIN-SUFFIX,quark4k.com
+DOMAIN-SUFFIX,quarksoo.cc
+DOMAIN-SUFFIX,sm3.cc
+DOMAIN-SUFFIX,sopanya.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ghp
