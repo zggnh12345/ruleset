@@ -1,11 +1,13 @@
 # 代理补充列表(国外域名不解析时，防止走直连使用)
 
 # MyList
-# 域名后缀匹配
+# 手动域名后缀匹配
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,re0.me
 DOMAIN-SUFFIX,workbuddy.ai
+
+# 自动域名后缀匹配
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
