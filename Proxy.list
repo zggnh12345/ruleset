@@ -64,6 +64,12 @@ DOMAIN-SUFFIX,lv1.io
 DOMAIN-SUFFIX,met.no
 DOMAIN-SUFFIX,radio-browser.info
 DOMAIN-SUFFIX,tiffara.com
+DOMAIN-SUFFIX,artificialanalysis.ai
+DOMAIN-SUFFIX,cloakbrowser.dev
+DOMAIN-SUFFIX,firecrawl.dev
+DOMAIN-SUFFIX,hdhaven.com
+DOMAIN-SUFFIX,keenable.ai
+DOMAIN-SUFFIX,teracloud.jp
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
