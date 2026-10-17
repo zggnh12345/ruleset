@@ -70,6 +70,16 @@ DOMAIN-SUFFIX,firecrawl.dev
 DOMAIN-SUFFIX,hdhaven.com
 DOMAIN-SUFFIX,keenable.ai
 DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,iconify.design
+DOMAIN-SUFFIX,loli.host
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,servicewebconnect.com
+DOMAIN-SUFFIX,simplesvg.com
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,yuusei.io
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
