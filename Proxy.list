@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,servicewebconnect.com
 DOMAIN-SUFFIX,simplesvg.com
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,yuusei.io
+DOMAIN-SUFFIX,52pokemon.cc
+DOMAIN-SUFFIX,expo.dev
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
