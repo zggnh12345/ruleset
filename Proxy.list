@@ -82,6 +82,12 @@ DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,yuusei.io
 DOMAIN-SUFFIX,52pokemon.cc
 DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,codex-pets.net
+DOMAIN-SUFFIX,dhgate.com
+DOMAIN-SUFFIX,msouy.com
+DOMAIN-SUFFIX,stanford.edu
+DOMAIN-SUFFIX,storyblok.com
+DOMAIN-SUFFIX,unisvg.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
