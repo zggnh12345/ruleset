@@ -88,6 +88,9 @@ DOMAIN-SUFFIX,msouy.com
 DOMAIN-SUFFIX,stanford.edu
 DOMAIN-SUFFIX,storyblok.com
 DOMAIN-SUFFIX,unisvg.com
+DOMAIN-SUFFIX,as93.net
+DOMAIN-SUFFIX,exa.ai
+DOMAIN-SUFFIX,parallel.ai
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
