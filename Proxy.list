@@ -91,6 +91,18 @@ DOMAIN-SUFFIX,unisvg.com
 DOMAIN-SUFFIX,as93.net
 DOMAIN-SUFFIX,exa.ai
 DOMAIN-SUFFIX,parallel.ai
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,asterdex.com
+DOMAIN-SUFFIX,astherus.finance
+DOMAIN-SUFFIX,nus.edu.sg
+DOMAIN-SUFFIX,predict.fun
+DOMAIN-SUFFIX,rail.tech
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,rikka-ai.com
+DOMAIN-SUFFIX,startappservice.com
+DOMAIN-SUFFIX,trade.xyz
+DOMAIN-SUFFIX,trivy.dev
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,mikrotik
