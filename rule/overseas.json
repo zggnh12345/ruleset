@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "mikrotik"
+      ]
+    },
+    {
       "domain_suffix": [
         "1122137.xyz",
         "1lou.me",
