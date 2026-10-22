@@ -103,6 +103,9 @@ DOMAIN-SUFFIX,rikka-ai.com
 DOMAIN-SUFFIX,startappservice.com
 DOMAIN-SUFFIX,trade.xyz
 DOMAIN-SUFFIX,trivy.dev
+DOMAIN-SUFFIX,mandrillapp.com
+DOMAIN-SUFFIX,netjett.com
+DOMAIN-SUFFIX,yv.gs
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mikrotik
