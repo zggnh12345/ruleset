@@ -106,6 +106,9 @@ DOMAIN-SUFFIX,trivy.dev
 DOMAIN-SUFFIX,mandrillapp.com
 DOMAIN-SUFFIX,netjett.com
 DOMAIN-SUFFIX,yv.gs
+DOMAIN-SUFFIX,anilist.co
+DOMAIN-SUFFIX,rikka.app
+DOMAIN-SUFFIX,trace.moe
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mikrotik
