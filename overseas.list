@@ -109,6 +109,10 @@ DOMAIN-SUFFIX,yv.gs
 DOMAIN-SUFFIX,anilist.co
 DOMAIN-SUFFIX,rikka.app
 DOMAIN-SUFFIX,trace.moe
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mikrotik
