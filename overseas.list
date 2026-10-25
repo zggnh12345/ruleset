@@ -113,6 +113,9 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,getmarvis.com
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,oplist.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mikrotik
