@@ -24,33 +24,33 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 
 # 自动域名后缀匹配
-DOMAIN-SUFFIX,naspt.vip
-DOMAIN-SUFFIX,wpys.cc
+DOMAIN-SUFFIX,bvmlt.top
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,data4.net
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,haitunsou.com
+DOMAIN-SUFFIX,hi168.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,jlycorp.com
+DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuake8.com
 DOMAIN-SUFFIX,leso.cc
-DOMAIN-SUFFIX,panso.vip
-DOMAIN-SUFFIX,quark4k.com
-DOMAIN-SUFFIX,quarksoo.cc
-DOMAIN-SUFFIX,sm3.cc
-DOMAIN-SUFFIX,sopanya.com
-DOMAIN-SUFFIX,jlycorp.com
-DOMAIN-SUFFIX,pinglian.lol
-DOMAIN-SUFFIX,tclai.top
-DOMAIN-SUFFIX,ugdtimg.com
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,hi168.com
 DOMAIN-SUFFIX,luoyy.com
 DOMAIN-SUFFIX,misoso.cc
-DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,rabt.top
-DOMAIN-SUFFIX,tapdb.net
-DOMAIN-SUFFIX,data4.net
-DOMAIN-SUFFIX,bvmlt.top
 DOMAIN-SUFFIX,myip.top
+DOMAIN-SUFFIX,naspt.vip
+DOMAIN-SUFFIX,panso.vip
+DOMAIN-SUFFIX,pinglian.lol
+DOMAIN-SUFFIX,quark4k.com
+DOMAIN-SUFFIX,quarksoo.cc
+DOMAIN-SUFFIX,rabt.top
+DOMAIN-SUFFIX,sm3.cc
+DOMAIN-SUFFIX,sopanya.com
+DOMAIN-SUFFIX,tapdb.net
+DOMAIN-SUFFIX,tclai.top
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,wpys.cc
 DOMAIN-SUFFIX,zskaixin.com
-DOMAIN-SUFFIX,kuaishouzt.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ghp
