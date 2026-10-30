@@ -24,7 +24,13 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 
 # 自动域名后缀匹配
+DOMAIN-SUFFIX,1panel.dev
+DOMAIN-SUFFIX,aityp.com
+DOMAIN-SUFFIX,bowen.games
 DOMAIN-SUFFIX,bvmlt.top
+DOMAIN-SUFFIX,ckyl.in
+DOMAIN-SUFFIX,ckyl.me
+DOMAIN-SUFFIX,ckylin.blog
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,data4.net
 DOMAIN-SUFFIX,gdtimg.com
@@ -37,6 +43,7 @@ DOMAIN-SUFFIX,kuake8.com
 DOMAIN-SUFFIX,leso.cc
 DOMAIN-SUFFIX,luoyy.com
 DOMAIN-SUFFIX,misoso.cc
+DOMAIN-SUFFIX,mybacc.com
 DOMAIN-SUFFIX,myip.top
 DOMAIN-SUFFIX,naspt.vip
 DOMAIN-SUFFIX,panso.vip
@@ -51,6 +58,7 @@ DOMAIN-SUFFIX,tclai.top
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,waimaosass.icu
 DOMAIN-SUFFIX,wpys.cc
+DOMAIN-SUFFIX,yomansunter.com
 DOMAIN-SUFFIX,zskaixin.com
 
 # 域名关键字匹配
