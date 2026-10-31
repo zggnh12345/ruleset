@@ -71,6 +71,8 @@ DOMAIN-SUFFIX,hunhepan.com
 DOMAIN-SUFFIX,iconify.design
 DOMAIN-SUFFIX,imgdb.de
 DOMAIN-SUFFIX,imgdd.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jasonzeng.dev
 DOMAIN-SUFFIX,jobcher.com
@@ -99,12 +101,14 @@ DOMAIN-SUFFIX,netjett.com
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,ntfy.sh
 DOMAIN-SUFFIX,nus.edu.sg
+DOMAIN-SUFFIX,oa.com
 DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,ovh.net
 DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,parallel.ai
 DOMAIN-SUFFIX,pgadmin.org
 DOMAIN-SUFFIX,playwright.dev
+DOMAIN-SUFFIX,powerapps.com
 DOMAIN-SUFFIX,predict.fun
 DOMAIN-SUFFIX,qkpanso.com
 DOMAIN-SUFFIX,quarktv.com
@@ -115,6 +119,7 @@ DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rikka-ai.com
 DOMAIN-SUFFIX,rikka.app
 DOMAIN-SUFFIX,rrbts.org
+DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sduc.cloud
 DOMAIN-SUFFIX,servicewebconnect.com
 DOMAIN-SUFFIX,shandian.blog
