@@ -54,6 +54,8 @@ DOMAIN-SUFFIX,dockerproxy.link
 DOMAIN-SUFFIX,dockerproxy.net
 DOMAIN-SUFFIX,dockerpull.org
 DOMAIN-SUFFIX,dockhand.pro
+DOMAIN-SUFFIX,dpaste.com
+DOMAIN-SUFFIX,dpaste.org
 DOMAIN-SUFFIX,dynadot.com
 DOMAIN-SUFFIX,dyyjmax.org
 DOMAIN-SUFFIX,dyyjpro.com
@@ -73,6 +75,7 @@ DOMAIN-SUFFIX,gaoqing888.com
 DOMAIN-SUFFIX,getmarvis.com
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,hacs.xyz
 DOMAIN-SUFFIX,hdhaven.com
@@ -157,10 +160,12 @@ DOMAIN-SUFFIX,susuifa.com
 DOMAIN-SUFFIX,teracloud.jp
 DOMAIN-SUFFIX,thpibay.xyz
 DOMAIN-SUFFIX,tiffara.com
+DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,tongritech.com
 DOMAIN-SUFFIX,trace.moe
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,trade.xyz
+DOMAIN-SUFFIX,transfer.sh
 DOMAIN-SUFFIX,trivy.dev
 DOMAIN-SUFFIX,trustpilot.com
 DOMAIN-SUFFIX,u3c3u3c3u3c3.com
