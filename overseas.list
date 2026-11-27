@@ -51,9 +51,7 @@ DOMAIN-SUFFIX,devyu.com
 DOMAIN-SUFFIX,dhgate.com
 DOMAIN-SUFFIX,dockerhub.icu
 DOMAIN-SUFFIX,dockerproxy.com
-DOMAIN-SUFFIX,dockerproxy.cool
 DOMAIN-SUFFIX,dockerproxy.link
-DOMAIN-SUFFIX,dockerproxy.net
 DOMAIN-SUFFIX,dockerpull.org
 DOMAIN-SUFFIX,dockhand.pro
 DOMAIN-SUFFIX,dpaste.com
@@ -76,8 +74,6 @@ DOMAIN-SUFFIX,feimo.fun
 DOMAIN-SUFFIX,firecrawl.dev
 DOMAIN-SUFFIX,gaoqing888.com
 DOMAIN-SUFFIX,getmarvis.com
-DOMAIN-SUFFIX,gh-proxy.com
-DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,hacs.xyz
@@ -197,6 +193,8 @@ DOMAIN-SUFFIX,yydsys.top
 DOMAIN-SUFFIX,zlxapp.top
 DOMAIN-SUFFIX,zxzj.run
 DOMAIN-SUFFIX,zxzjys.com
+DOMAIN-SUFFIX,haitunsou.com
+DOMAIN-SUFFIX,jying.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mikrotik
