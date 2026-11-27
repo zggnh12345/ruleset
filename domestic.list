@@ -36,12 +36,10 @@ DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,data4.net
 DOMAIN-SUFFIX,gbfeng.com
 DOMAIN-SUFFIX,gdtimg.com
-DOMAIN-SUFFIX,haitunsou.com
 DOMAIN-SUFFIX,hi168.com
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,jiaxin.site
 DOMAIN-SUFFIX,jlycorp.com
-DOMAIN-SUFFIX,jying.top
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuake8.com
 DOMAIN-SUFFIX,leso.cc
@@ -65,6 +63,10 @@ DOMAIN-SUFFIX,wpys.cc
 DOMAIN-SUFFIX,yomansunter.com
 DOMAIN-SUFFIX,zskaixin.com
 DOMAIN-SUFFIX,zykjhh.com
+DOMAIN-SUFFIX,dockerproxy.cool
+DOMAIN-SUFFIX,dockerproxy.net
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,ghfast.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ghp
